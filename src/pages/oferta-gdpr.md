@@ -8,8 +8,6 @@ menus:
     weight: 2
 template: page
 ---
-
-
 **OFERTA SERVICII de consultanță și asistență pentru aliniere și conformitate la GDPR (UE) 2016/679 – Regulamentul General de Protecție a Datelor**
 
 ##### **I. DATE GENERALE**
@@ -58,7 +56,7 @@ Activitățile care se vor desfășura pentru alinierea instituției/societăți
 
   * *Modificările software sau hardware necesare compatibilizării sistemelor informatice prin intermediul cărora sunt prelucrate date și informații cu caracter personal cu cerințele tehnice rezultate din prevederile GDPR;*
   * *Managementul periodic al riscului, așa cum este prevăzut prin art. 32 și art. 35 din GDPR.*
-* Termen de realizare a întregului pachet de activități și întocmire a documentelor: **12 zile**lucrătoare.
+* Termen de realizare a întregului pachet de activități și întocmire a documentelor: **12 zile** lucrătoare.
 
 ##### **III. SPECIFICAŢII FINANCIARE**
 
