@@ -8,8 +8,6 @@ menus:
     weight: 3
 template: page
 ---
-## Despre mine – Costel ABRAŞU
-
 Numele meu este **Costel ABRAŞU** şi pot efectua analiza de risc la securitatea fizică pentru unități situate în toată ţara, dar cu precădere în Bucureşti, Brăila, Galaţi, Tecuci, Buzău, Focşani, Slobozia, Ploieşti, Târgovişte, Urziceni şi localităţi din zonele limitrofe acestora.
 
 Mă puteţi contacta la numărul de telefon ***0752-551-626*** sau prin adresa de e-mail ***abrasu@yahoo.ro.***
