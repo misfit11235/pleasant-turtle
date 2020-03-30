@@ -1,10 +1,10 @@
 ---
 title: Despre mine
-subtitle: Eu si munca mea.
+subtitle: ''
 img_path: images/about.jpg
 menus:
   main:
-    title: Despre mine
+    title: ''
     weight: 3
 template: page
 ---
