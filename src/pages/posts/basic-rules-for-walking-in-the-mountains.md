@@ -9,7 +9,7 @@ excerpt: >-
   requires pushing vegetation aside.
 template: post
 ---
-<!--StartFragment-->
+
 
 ### ***1. Conştientizarea***
 
@@ -132,5 +132,3 @@ Elaborarea unui plan de asigurare a tuturor măsurilor necesare pentru îndeplin
 
 Acesta a fost articolul despre primii pasi spre conformarea cu GDPR. Pentru alte detalii despre legislatia privind GDPR, va rugam accesati blogul nostru:[Blog GDPR](https://analizariscbraila.ro/category/gdpr/)\
 Un ofiter de protectia datelor profesionist o sa va ajute.
-
-<!--EndFragment-->
