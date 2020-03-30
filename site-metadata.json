@@ -1,5 +1,5 @@
 {
-  "title": "Abrasu Costel - Evaluator risc & consultanta GDPR",
+  "title": "Abrasu Costel - Evaluator de risc & expert GDPR",
   "layout_style": "grid",
   "palette": "green",
   "header": {
@@ -9,7 +9,13 @@
   },
   "footer": {
     "content": "Abrasu Costel P. F. A. &copy; Toate drepturile rezervate.",
-    "links": [],
+    "links": [
+      {
+        "new_window": true,
+        "text": "Am nevoie de o evaluare de risc pentru afacerea mea!",
+        "url": "https://analizariscbraila.ro/"
+      }
+    ],
     "has_social": true
   }
 }
