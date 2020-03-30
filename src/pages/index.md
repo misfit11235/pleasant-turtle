@@ -13,7 +13,7 @@ sections:
     actions: []
 menus:
   main:
-    title: Home
+    title: Acasa
     weight: 1
 template: home
 ---
