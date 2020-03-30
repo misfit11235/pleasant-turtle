@@ -6,15 +6,10 @@ thumb_img_path: images/4.jpg
 content_img_path: images/4.jpg
 excerpt: >-
   ### **Dreptul de informare** – dreptul de a primi informații clare și
-  inteligibile  Drepturile persoanei vizate: Printre informaţiile ce trebuie
-  oferite se numără, potrivit art. 13 şi art. 14 din
-  [GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG&toc=OJ:L:2016:119:TOC): 
-  * identitatea şi datele de contact ale operatorului şi, după caz, ale
-  reprezentantului acestuia; * scopurile în care sunt prelucrate datele cu
-  caracter personal, precum şi temeiul juridic al prelucrării; * destinatarii
-  sau categoriile de destinatari ai datelor cu caracter personal. * perioada
-  pentru care vor fi stocate datele cu caracter personal sau, dacă acest lucru
-  nu este posibil, criteriile utilizate pentru a stabili această perioadă.
+  inteligibile. ### **2. Dreptul de acces la datele cu caracter
+  personal**(prevăzut expres în art. 15 din [GDPR]; ### **3. Dreptul de
+  rectificare şi ştergere a datelor**(cunoscut şi sub denumirea de “*dreptul de
+  a fi uitat)* – *art. 17 [GDPR]);
 template: post
 ---
 ### **1. Dreptul de informare** – dreptul de a primi informații clare și inteligibile
