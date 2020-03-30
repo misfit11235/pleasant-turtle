@@ -8,17 +8,13 @@ menus:
     weight: 3
 template: page
 ---
-
-
 ## Despre mine – Costel ABRAŞU
 
-Numele meu este **Costel ABRAŞU**şi pot efectua analiza de risc la securitatea fizică pentru unități situate în toată ţara, dar cu precădere în Bucureşti, Brăila, Galaţi, Tecuci, Buzău, Focşani, Slobozia, Ploieşti, Târgovişte, Urziceni şi localităţi din zonele limitrofe acestora.
+Numele meu este **Costel ABRAŞU** şi pot efectua analiza de risc la securitatea fizică pentru unități situate în toată ţara, dar cu precădere în Bucureşti, Brăila, Galaţi, Tecuci, Buzău, Focşani, Slobozia, Ploieşti, Târgovişte, Urziceni şi localităţi din zonele limitrofe acestora.
 
-Mă puteţi contacta la numărul de telefon***0752.551.626***sau prin adresa de e-mail***abrasu@yahoo.ro***
+Mă puteţi contacta la numărul de telefon ***0752-551-626*** sau prin adresa de e-mail ***abrasu@yahoo.ro.***
 
 ## De ce eu sunt evaluatorul potrivit pentru analiza de risc la securitatea fizică a afacerii dumneavoastră?
-
-
 
 * sunt evaluator avizat de IGPR, din luna iunie 2013 (nr. 42 în RNERSF), perioadă în care am efectuat analize de risc la securitatea fizică pentru obiective din diferite domenii de activitate, cum ar fi: expoziţie internaţională, muzeu, universitate, liceu, spital, camping, fermă piscicolă, hotel, mall, cazinou, bar, casă de amanet, casă de schimb valutar, stație alimentare carburanți, IFN, ştrand, spațiu de producţie, spaţiu comercial cu suprafață de peste 500 mp., instituție publică,farmacie, cafe-bar, club, discotecă, restaurant, frizerie, magazin, sala de jocuri de noroc, casa pariuri sportive, fermă, motel, stație carburanți, casă amanet, casă schimb valutar, casierie utilități, CAR, service, primărie, școală, grădiniță, cabinet notar public, cabinet medical, policlinică, farmacie, depozit, parc fotovoltaic, tipografie etc.
 * sunt evaluator independent şi nu reprezint interesele niciunei societăţi de pază sau de comercializare/instalare elemente de protecție mecanofizice sau electronice de securitate;
