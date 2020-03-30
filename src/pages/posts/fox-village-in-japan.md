@@ -1,8 +1,6 @@
 ---
-title: Fox Village In Japan
-subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
+title: Legislatie GDPR
+subtitle: 'Acte normative, europene&nationale'
 date: '2018-01-11'
 thumb_img_path: images/10.jpg
 content_img_path: images/10.jpg
@@ -15,18 +13,22 @@ excerpt: >-
 template: post
 ---
 
-Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
 
-> The fox never found a better messenger than himself.
+**ACTE NORMATIVE, U.E. ŞI NAŢIONALE, CARE REGLEMENTEAZĂ PROTECŢIA DATELOR CU CARACTER PERSONAL**
 
-As the programming of <a title="Japan" href="http://en.wikipedia.org/wiki/Japan" target="_blank">Japan’s</a> traditional culture gradually weakened from 1945 on, individual Japanese began to exercise some personal choice in their private lives. But the newly mandated freedoms had a minimal effect on a number of key institutions.
+**Regulament nr. 679 din 27 aprilie 2016***privind protecţia persoanelor fizice în ceea ce priveşte prelucrarea datelor cu caracter personal şi privind libera circulaţie a acestor date şi de abrogare aDirectivei 95/46/CE (Regulamentul general privind protecţia datelor)*
 
-Japan’s educational, economical and political systems remained hidebound bulwarks of traditional behavior. The politically guided economic system in particular was able to generate enormous power that could be directed with the precision of a laser beam.
+<https://www.dataprotection.ro/?page=Regulamentul_nr_679_2016>
 
-Twelve species belong to the monophyletic group of Vulpes genus of **"true foxes"**. Approximately another 25 current or extinct species are always or sometimes called foxes; these foxes are either part of the paraphyletic group of the South American foxes, or of the outlying group, which consists of bat-eared fox, gray fox, and island fox. Foxes are found on every continent except Antarctica. By far the most common and widespread species of fox is the red fox *(Vulpes vulpes)* with about 47 recognized subspecies. 
+**Legea nr. 190 din 18 iulie 2018***privind măsuri de punere în aplicare a Regulamentului (UE) 2016/679 al Parlamentului European și al Consiliului din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor)*
 
-> The fox changes his fur but not his habits.
+<https://www.dataprotection.ro/?page=legislatie_primara&lang=ro>
 
-The global distribution of foxes, together with their widespread reputation for cunning, has contributed to their prominence in popular culture and folklore in many societies around the world. The hunting of foxes with packs of hounds, long an established pursuit in Europe, especially in the British Isles, was exported by European settlers to various parts of the New World. { <a title="Fox" href="https://en.wikipedia.org/wiki/Fox" target="_blank">Source</a> }
+**Legea nr. 363 din 28 decembrie 2018***privind protecţia persoanelor fizice referitor la prelucrarea datelor cu caracter personal de către autorităţile competente în scopul prevenirii, descoperirii, cercetării, urmăririi penale şi combaterii infracţiunilor sau al executării pedepselor, măsurilor educative şi de siguranţă, precum şi privind libera circulaţie a acestor date*
 
-The interaction between Japanese and European art has been significant: for example ukiyo-e prints, which began to be exported in the 19th century in the movement known as Japonism, had a significant influence on the development of modern art in the West, most notably on post-Impressionism. Famous ukiyo-e artists include Hokusai and Hiroshige. The fusion of traditional woodblock printing and Western art led to the creation of manga, a comic book format that is now popular within and outside Japan. Manga-influenced animation for television and film is called anime. Japanese-made video game consoles have been popular since the 1980s. { <a title="Ise Grand Shrine" href="http://en.wikipedia.org/wiki/Ise_Grand_Shrine" target="_blank">Source</a> }
+<https://www.dataprotection.ro/?page=legislatie_primara&lang=ro>
+
+Acestea sunt principalele documente din categoria legislatie gdpr.
+
+Pentru detalii despre legislatia pentru analiza de risc, poti accesa blogul nostru oferit gratuit cu informatii actualizate:\
+<https://analizariscbraila.ro/ce-spune-legislatia-cu-privire-la-analiza-de-risc-la-securitatea-fizica/>
