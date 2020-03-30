@@ -9,7 +9,7 @@ template: contact
 ---
 ## Contact – Evaluator de risc la securitatea fizică & consultant GDPR
 
-Telefon: 0752551626\
+Telefon: 0752-551-626\
 Email: abrasu@yahoo.ro
 
 Care sunt informațiile pe care este bine să le comunici evaluatorului pentru a primi o ofertă cât mai reală pentru analiza de risc la securitatea fizică?
