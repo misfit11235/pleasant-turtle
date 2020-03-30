@@ -6,12 +6,11 @@ sections:
     section_id: intro
     component: Intro
     content: >-
-      OFERTA SERVICII de consultanță și asistență pentru aliniere și
-      conformitate la GDPR (UE) 2016/679 – Regulamentul General de Protecție a
-      Datelor
-    actions:
-      - label: Learn More
-        url: /about
+
+
+      Abrasu Costel - consultanță și asistență pentru aliniere și conformitate
+      la GDPR (UE) 2016/679 – Regulamentul General de Protecție a Datelor
+    actions: []
 menus:
   main:
     title: Home
