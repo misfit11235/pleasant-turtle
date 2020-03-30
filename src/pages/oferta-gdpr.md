@@ -5,7 +5,7 @@ img_path: >-
 menus:
   main:
     title: Vreau o oferta
-    weight: -1
+    weight: 2
 template: page
 ---
 
