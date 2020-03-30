@@ -1,10 +1,10 @@
 ---
-title: Oferta GDPR
+title: Ofertă GDPR
 img_path: >-
   /images/business-man-and-woman-handshake-in-work-office-picjumbo-com-1045x696.jpg
 menus:
   main:
-    title: Vreau o oferta
+    title: Vreau o ofertă
     weight: 2
 template: page
 ---
@@ -32,7 +32,7 @@ Activitățile care se vor desfășura pentru alinierea instituției/societăți
    * Cerere de consimțământ – model adaptat (două scopuri);
    * Cerere de consimțământ prelucrare date cu caracter special – model adaptat;
    * Cerere de consimțământ prelucrare date despre minori – model adaptat;
-   * Cerere exercitare[drepturi persoană vizată](https://analizariscbraila.ro/drepturile-persoanei-vizate/)– model adaptat;
+   * Cerere exercitare [drepturi persoană vizată](https://analizariscbraila.ro/drepturile-persoanei-vizate/) – model adaptat;
    * Informare privind prelucrarea datelor cu caracter personal;
    * Mandat cu privire la prelucrarea DCP în numele operatorului de către un împuternicit al acestuia;
    * Plan de reacție la incidente de securitate;
