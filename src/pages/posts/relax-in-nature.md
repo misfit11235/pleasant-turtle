@@ -4,23 +4,29 @@ subtitle: ''
 date: '2019-03-24'
 thumb_img_path: images/4.jpg
 content_img_path: images/4.jpg
-excerpt: ''
+excerpt: >-
+  ### **Dreptul de informare** – dreptul de a primi informații clare și
+  inteligibile  Drepturile persoanei vizate: Printre informaţiile ce trebuie
+  oferite se numără, potrivit art. 13 şi art. 14 din
+  [GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG&toc=OJ:L:2016:119:TOC): 
+  * identitatea şi datele de contact ale operatorului şi, după caz, ale
+  reprezentantului acestuia; * scopurile în care sunt prelucrate datele cu
+  caracter personal, precum şi temeiul juridic al prelucrării; * destinatarii
+  sau categoriile de destinatari ai datelor cu caracter personal. * perioada
+  pentru care vor fi stocate datele cu caracter personal sau, dacă acest lucru
+  nu este posibil, criteriile utilizate pentru a stabili această perioadă.
 template: post
 ---
-
-
-
-
 ### **1. Dreptul de informare** – dreptul de a primi informații clare și inteligibile
 
-Drepturile persoanei vizate: Printre informaţiile ce trebuie oferite se numără, potrivit art. 13 şi art. 14 din[GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG&toc=OJ:L:2016:119:TOC):
+Drepturile persoanei vizate: Printre informaţiile ce trebuie oferite se numără, potrivit art. 13 şi art. 14 din [GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG&toc=OJ:L:2016:119:TOC):
 
 * identitatea şi datele de contact ale operatorului şi, după caz, ale reprezentantului acestuia;
 * scopurile în care sunt prelucrate datele cu caracter personal, precum şi temeiul juridic al prelucrării;
 * destinatarii sau categoriile de destinatari ai datelor cu caracter personal.
 * perioada pentru care vor fi stocate datele cu caracter personal sau, dacă acest lucru nu este posibil, criteriile utilizate pentru a stabili această perioadă.
 
-### **2. Dreptul de acces la datele cu caracter personal**(prevăzut expres în art. 15 din[GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG&toc=OJ:L:2016:119:TOC));
+### **2. Dreptul de acces la datele cu caracter personal**(prevăzut expres în art. 15 din [GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG&toc=OJ:L:2016:119:TOC));
 
 Componente ale dreptului:
 
@@ -28,13 +34,13 @@ Componente ale dreptului:
 * în cazul în care sunt efectuate operaţiuni de prelucrare, acces la datele respective şi la o serie de informaţii (ex. scopurile prelucrării; destinatarii sau categoriile de destinatari cărora datele le-au fost sau urmează să le fie divulgate; categoriile de date cu caracter personal vizate; acolo unde este posibil, perioada pentru care se preconizează că vor fi stocate datele cu caracter personal sau criteriile utilizate pentru a stabili această perioadă, după caz; existența drepturilor specifice; orice informații disponibile privind sursa datelor, dacă este cazul; existența unui proces decizional automatizat, incluzând crearea de profiluri și informații pertinente privind logica utilizată și privind importanța și consecințele preconizate ale unei astfel de prelucrări pentru persoana vizată; dacă și către ce state terțe ori organizații internaționale, din afara UE/SEE sunt transferate datele) – art. 15 alin. (1) GDPR;
 * posibilitatea persoanei vizate de a obţine de la operator o copie a datelor personale prelucrate – art. 15 alin. (2) GDPR.
 
-### **3. Dreptul de rectificare şi ştergere a datelor**(cunoscut şi sub denumirea de “*dreptul de a fi uitat)*–*art. 17 [GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG&toc=OJ:L:2016:119:TOC)*;
+### **3. Dreptul de rectificare şi ştergere a datelor**(cunoscut şi sub denumirea de “*dreptul de a fi uitat)* – *art. 17 [GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG&toc=OJ:L:2016:119:TOC)*;
 
 Conferă persoanei vizate posibilitatea de a obţine ştergerea datelor care o privesc, fără nicio întârziere, în situaţia în care este aplicabil oricare dintre cazurile menţionate în art. 17 alin. (1) GDPR şi nu sunt incidente prevederile art. 17 alin. (3) GDPR.
 
-Potrivit **“Dreptului de a fi uitat”**– persoanele fizice pot cere ştergerea datelor personale dacă acestea au fost prelucrate ilegal; dacă persoana vizată își retrage consimţământul pe baza căruia are loc prelucrarea, și nu există niciun alt temei juridic pentru prelucrarea acestora; dacă persoana vizată se opune prelucrării și nu există motive legitime care să prevaleze în ceea ce privește prelucrarea sau persoana vizată se opune prelucrării în scopuri de marketing direct sau dacă datele nu mai sunt necesare pentru îndeplinirea scopului/scopurilor pentru care au fost colectate sau prelucrate iniţial.
+Potrivit **“Dreptului de a fi uitat”** – persoanele fizice pot cere ştergerea datelor personale dacă acestea au fost prelucrate ilegal; dacă persoana vizată își retrage consimţământul pe baza căruia are loc prelucrarea, și nu există niciun alt temei juridic pentru prelucrarea acestora; dacă persoana vizată se opune prelucrării și nu există motive legitime care să prevaleze în ceea ce privește prelucrarea sau persoana vizată se opune prelucrării în scopuri de marketing direct sau dacă datele nu mai sunt necesare pentru îndeplinirea scopului/scopurilor pentru care au fost colectate sau prelucrate iniţial.
 
-În cazul dreptului de a fi uitat, este avută în vedere în special prelucrarea datelor în mediul on-line.
+În cazul dreptului de a fi uitat, este avută în vedere în special prelucrarea datelor în mediul online.
 
 Dreptul de a fi uitat nu este unul absolut – vor fi analizate întotdeauna circumstanţele specifice fiecărui caz în parte.
 
@@ -85,19 +91,19 @@ Art. 22 alin. (1) GDPR:*“Persoana vizată are dreptul de a nu face obiectul un
 
 ***În concluzie, drepturile persoanei vizate fizice în legătură cu prelucrarea datelor personale, sunt:***
 
-***Dreptul de acces**– dreptul de a obține din partea Operatorului o confirmare dacă se prelucrează sau nu date cu caracter personal care vă privesc și, în caz afirmativ, aveți acces la datele respective;*
+**\*Dreptul de acces** – dreptul de a obține din partea Operatorului o confirmare dacă se prelucrează sau nu date cu caracter personal care vă privesc și, în caz afirmativ, aveți acces la datele respective;*
 
-***Dreptul la rectificare**– dreptul de a obține de la Operator, fără întârzieri nejustificate, rectificarea datelor cu caracter personal inexacte care vă privesc, precum şi completarea datelor care sunt incomplete;*
+**\*Dreptul la rectificare** – dreptul de a obține de la Operator, fără întârzieri nejustificate, rectificarea datelor cu caracter personal inexacte care vă privesc, precum şi completarea datelor care sunt incomplete;*
 
-***Dreptul la ştergerea datelor**– “Dreptul de a fi uitat” – în situaţiile reglementate expres de lege, în special în cazul în care vă retrageţi consimţământul aveți dreptul de a obține din partea Operatorului ștergerea datelor cu caracter personal care vă privesc;*
+**\*Dreptul la ştergerea datelor** – “Dreptul de a fi uitat” – în situaţiile reglementate expres de lege, în special în cazul în care vă retrageţi consimţământul aveți dreptul de a obține din partea Operatorului ștergerea datelor cu caracter personal care vă privesc;*
 
-***Dreptul la restricţionarea prelucrării**– dreptul de a obține din partea Operatorului restricționarea prelucrării datelor în anumite situaţii reglementate expres de lege, în special în cazul în care contestaţi exactitatea acestora sau în cazul în care prelucrarea este ilegală;*
+**\*Dreptul la restricţionarea prelucrării** – dreptul de a obține din partea Operatorului restricționarea prelucrării datelor în anumite situaţii reglementate expres de lege, în special în cazul în care contestaţi exactitatea acestora sau în cazul în care prelucrarea este ilegală;*
 
-***Dreptul la portabilitatea datelor**– dreptul de a primi datele cu caracter personal care vă privesc și pe care le-ați furnizat Operatorului pentru a fi transmise altui operator;*
+**\*Dreptul la portabilitatea datelor** – dreptul de a primi datele cu caracter personal care vă privesc și pe care le-ați furnizat Operatorului pentru a fi transmise altui operator;*
 
-***Dreptul la opoziţie**– dreptul de a vă opune, din motive legate de situația particulară în care vă aflați, prelucrării datelor cu caracter personal care vă privesc, inclusiv creării de profiluri pe baza respectivelor dispoziții;*
+**\*Dreptul la opoziţie** – dreptul de a vă opune, din motive legate de situația particulară în care vă aflați, prelucrării datelor cu caracter personal care vă privesc, inclusiv creării de profiluri pe baza respectivelor dispoziții;*
 
-***Dreptul de a nu face obiectul unei decizii bazate exclusiv pe prelucrarea automată**– dreptul de a nu face obiectul unei decizii bazate exclusiv pe prelucrarea automată, inclusiv crearea de profiluri, care vă afectează într-o măsură semnificativă.*
+**\*Dreptul de a nu face obiectul unei decizii bazate exclusiv pe prelucrarea automată** – dreptul de a nu face obiectul unei decizii bazate exclusiv pe prelucrarea automată, inclusiv crearea de profiluri, care vă afectează într-o măsură semnificativă.*
 
 Acesta a fost articolul despre drepturile persoanei vizate. Pentru alte detalii despre legislatia privind GDPR, va rugam accesati blogul nostru: [Blog GDPR](https://analizariscbraila.ro/category/gdpr/)\
 Un ofiter de protectia datelor profesionist o sa va ajute.
