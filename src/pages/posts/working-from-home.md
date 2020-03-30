@@ -5,9 +5,6 @@ date: '2019-03-30'
 thumb_img_path: images/9.jpg
 content_img_path: images/9.jpg
 excerpt: >-
-  În aplicarea Regulamentului general privind protecţia datelor şi a [Legii
-  nr.190/2018](https://www.dataprotection.ro/servlet/ViewDocument?id=1520),
-  termenii şi expresiile de mai jos se definesc după cum urmează (glosar GDPR): 
   **„GDPR”, “Regulamentul”**= Regulamentul (UE) 2016/679 al Parlamentului
   European și al Consiliului în 27 aprilie 2016 privind protecția persoanelor
   fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind
