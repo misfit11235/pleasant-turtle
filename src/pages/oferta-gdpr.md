@@ -2,6 +2,10 @@
 title: Oferta GDPR
 img_path: >-
   /images/business-man-and-woman-handshake-in-work-office-picjumbo-com-1045x696.jpg
+menus:
+  main:
+    title: Vreau o oferta
+    weight: -2
 template: page
 ---
 
