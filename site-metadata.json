@@ -8,14 +8,8 @@
     "has_nav": true
   },
   "footer": {
-    "content": "&copy; All rights reserved.",
-    "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
-    ],
+    "content": "Abrasu Costel P. F. A. &copy; Toate drepturile rezervate..",
+    "links": [],
     "has_social": true
   }
 }
